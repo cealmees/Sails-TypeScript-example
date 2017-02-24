@@ -1,3 +1,3 @@
-# Sails-TypeScript-example
+# telcel_hub
 
-Work in progress, this version is not using TypeScript yet. 
+a [Sails](http://sailsjs.org) application

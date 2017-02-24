@@ -1,5 +1,5 @@
 {
-  "name": "Sails-TypeScript-example",
+  "name": "telcel_hub",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cealmees/Sails-TypeScript-example.git"
+    "url": "git://github.com/cealmees/telcel_hub.git"
   },
   "author": "cealmees",
   "license": ""
